@@ -3,8 +3,7 @@
 KOTH plugin for Paper/Spigot.
 
 ## Download
-Get the latest `.jar` from **Releases**:
-- https://github.com/marwannull/Kothar/releases
+Get the latest `.jar` from **[Releases](https://github.com/marwannull/Kothar/releases)**
 
 ## Requirements
 - Java 17+
@@ -18,5 +17,5 @@ Get the latest `.jar` from **Releases**:
 3. Edit configs in `plugins/Kothar/`
 4. `/kothar reload`
 
-## Help
-- `/kothar help`
+## Wiki
+- https://marwannull.github.io/wiki/index.html
